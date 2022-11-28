@@ -10,7 +10,7 @@ The webapp is deployed on Heroku, so no special instructions are required, simpl
 ## Installation
 The user should clone the repository from GitHub. 
 
-     git clone https://github.com/GEEZEE91/EVENT-A-GRAM/
+     git clone https://github.com/Web3Zero/event-a-gram
 
 To connect to the database run and enter password. 
 
